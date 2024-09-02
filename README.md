@@ -13,3 +13,5 @@ Design Specifications are as follows:
 - All resistors in the design <= 1MΩ
 
 **See Voltage_Amplifier_Design_Report.pdf for more details. You may need to download the pdf on Safari to view it.**
+
+**To view the design, download 305_voltage_amp_project_wrk and open with Keysight ADS.**
