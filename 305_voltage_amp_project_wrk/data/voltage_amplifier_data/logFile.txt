@@ -1,0 +1,27 @@
+
+hpeesofsim (*) 572.shp Mar 28 2023, MINT version 5
+    (64-bit windows built: Tue Mar 28, 2023 23:58:00 +0000)
+
+
+***** Simulation started at Fri Apr 12 11:54:22 2024
+      Running on host: "RYN-B10-PC-15"
+      In Directory: "C:\Users\el52\Documents\305_voltage_amp_project_wrk\data"
+      Process ID: 8284
+
+Warning detected by hpeesofsim during netlist flattening.
+    BSIM4 Version 4 in model `nmos1' is not supported. Version will be set to 4.82 
+
+Warning detected by hpeesofsim in topology check during circuit set up.
+    Number of nodes with no DC path to ground (topology corrected): 2
+
+
+DC DC1[1] <305_voltage_amp_project_lib:voltage_amplifier:schematic>  
+.
+DC convergence achieved in 83 iterations.
+
+AC AC1[1] <305_voltage_amp_project_lib:voltage_amplifier:schematic>   freq=1 kHz
+
+
+Resource usage:
+  Total stopwatch time     =     0.42 seconds.
+

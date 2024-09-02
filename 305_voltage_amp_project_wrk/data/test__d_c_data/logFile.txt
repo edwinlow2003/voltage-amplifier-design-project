@@ -1,0 +1,24 @@
+
+hpeesofsim (*) 572.shp Mar 28 2023, MINT version 5
+    (64-bit windows built: Tue Mar 28, 2023 23:58:00 +0000)
+
+
+***** Simulation started at Sun Apr 21 17:17:43 2024
+      Running on host: "RYN-B10-PC-14"
+      In Directory: "C:\Users\el52\Downloads\305_voltage_amp_project_wrk-20240421T204234Z-001\305_voltage_amp_project_wrk\data"
+      Process ID: 18172
+
+Warning detected by hpeesofsim during netlist flattening.
+    BSIM4 Version 4 in model `nmos1' is not supported. Version will be set to 4.82 
+
+
+DC DC1[1] <305_voltage_amp_project_lib:test__d_c:schematic>  
+.
+DC convergence achieved in 73 iterations.
+
+AC AC1[1] <305_voltage_amp_project_lib:test__d_c:schematic>   freq=1 kHz
+
+
+Resource usage:
+  Total stopwatch time     =     0.41 seconds.
+

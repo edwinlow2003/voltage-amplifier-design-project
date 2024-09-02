@@ -1,0 +1,6 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+DEFINE 130nm_bulk_lib 130nm_bulk_lib
+ASSIGN 130nm_bulk_lib libMode shared
+DEFINE 305_voltage_amp_project_lib 305_voltage_amp_project_lib
+ASSIGN 305_voltage_amp_project_lib libMode shared

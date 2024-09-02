@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dc_annotation_options>
+ <options ToggleVoltage="true" ToggleCurrent="true" library="305_2021_project_lib" cell="CS" view="schematic"/>
+ <options ToggleVoltage="true" ToggleCurrent="true" library="305_2021_project_lib" cell="test_DC" view="schematic"/>
+ <options ToggleVoltage="false" ToggleCurrent="false" library="305_voltage_amp_project_lib" cell="test_DC" view="schematic"/>
+ <options ToggleVoltage="false" ToggleCurrent="false" library="305_voltage_amp_project_lib" cell="test__d_c" view="schematic"/>
+</dc_annotation_options>

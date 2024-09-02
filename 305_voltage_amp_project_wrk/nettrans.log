@@ -1,0 +1,34 @@
+Netlist Translator (*) 490.shp Nov 12 2018
+IFF translation log
+
+Input format: HSPICE
+Input filename: C:/Users/tc57/Dropbox/Rice/teaching/wireless_IC/project_my_design/project_template_wrk/130nm_bulk.pm
+
+Output format: IFF file
+Output filename: spice.iff
+
+Special options:
+    Processing first line as comment.
+
+Begin translation at Thu Apr  1 11:42:31 2021
+
+Creating schematic with named connections.
+Reading item definition file "C:\Program Files\Keysight\ADS2019/config\spctoiff.cfg"
+WARNING: Skipping unrecognized element type: line #2, "<!-- saved from url=(0047)http://ptm.asu.edu/modelcard/2006/130nm_bulk.pm -->".
+WARNING: Skipping unrecognized element type: line #3, "<html><head><meta http-equiv="content-type" content="text/html; charset=iso-8859-1"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">* beta version released on 2/22/06".
+WARNING: Skipping unrecognized element type: line #149, "</pre></body></html>".
+
+Translation completed at Thu Apr  1 11:42:31 2021.
+
+========================================================================
+End of Spice Translation Log file, beginning of IFF Translation Log File
+========================================================================
+
+Beginning IFF import
+Processing IFF file: C:\Users\tc57\Dropbox\Rice\teaching\305_2021\305_2021_project_wrk\spice.iff
+WARNING Separator character missing from end of line (line 12): 
+Creating design 130nm_bulk_lib:UNNAMED:schematic
+Creating design 130nm_bulk_lib:UNNAMED:symbol
+IFF import complete
+Warnings:  1
+
